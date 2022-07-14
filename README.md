@@ -1,6 +1,6 @@
 # Hikes Adventure Trails
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png](https://github.com/drsfieldsIMA/portfolio/blob/main/public/hike_desktop.png)
 
 Hikes Adventure Trails is and ecoconscious travel company that seeks to connect sustainable trips to ecoconscious travellers 
 
